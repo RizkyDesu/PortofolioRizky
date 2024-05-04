@@ -27,7 +27,7 @@
     width: 500px;
     height: 500px;
     position: relative;
-    right: 100px;
+    right: 60px;
 }
 
 .intro{
@@ -35,7 +35,7 @@
     top: 120px;
     left: 200px;
     width: auto;
-    height: 300px;
+    height: 100vh;
     color: #fbfeff;
     text-shadow: 2px 2px 3px #023;
 }
